@@ -43,3 +43,6 @@ yarn-debug.log*
 .rakeTasks
 file.env
 api/tmp
+api/log
+api.iml
+client.iml

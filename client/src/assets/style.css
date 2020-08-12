@@ -1,0 +1,64 @@
+.c-main {
+    padding: 96px 0
+}
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    margin: 0 1rem;
+    background-color: beige;
+}
+.header > li {
+    color: #444;
+    font-size: 16px;
+    padding: 5px;
+    margin-right: 10px;
+}
+.header > li > a {
+    cursor: pointer;
+}
+
+
+/*********** Footer ***********/
+.l-footer {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    margin: 0 1rem;
+}
+
+.l-footer > a {
+    color: #444;
+    font-size: .9rem;
+    margin-right: 1rem;
+}
+
+.u-text-small {
+    font-size: .9rem;
+}
+
+.u-text__link-none {
+    text-decoration: none;
+}
+
+.u-text-left {
+    text-align: left;
+}
+
+.u-text-right {
+    text-align: right;
+}
+
+.u-text-center {
+    text-align: center;
+}
+
+.u-text__headline {
+    color: #4dd0e1;
+    font-size: 1.563rem;
+    margin: 0 auto 1rem auto;
+}
+
+.u-display-none {
+    display: none;
+}
